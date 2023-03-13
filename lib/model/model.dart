@@ -26,7 +26,8 @@ class PortfolioModel {
 var dummyData = PortfolioModel(
   name: 'Nischal Shakya',
   designation: 'Flutter developer',
-  description: "description",
+  description:
+      "An enthusiastic flutter developer who has the skills for implicit animation and good state managements",
   experiences: [
     {
       "experience":
